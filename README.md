@@ -1,16 +1,20 @@
-## Hi there 👋
+# Icaro Leandro
 
-<!--
-**icaroilc/icaroilc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre mim
+Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, atualmente iniciando minha jornada na área de tecnologia. Tenho interesse em **desenvolvimento de software** e **cibersegurança**, e busco constantemente aprender e evoluir minhas habilidades.
 
-Here are some ideas to get you started:
+## Objetivos
+- Desenvolver uma base sólida em programação e boas práticas de desenvolvimento.  
+- Criar projetos que reforcem meu aprendizado e possam ajudar outras pessoas.  
+- Futuramente, atuar na área de **cibersegurança**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias em aprendizado
+- Lógica de Programação  
+- Python  
+- Git e GitHub  
+- Desenvolvimento Web (HTML, CSS e JavaScript)  
+
+## Contato
+- 📧 E-mail: icaro.contato11@gmail.com 
+- 🔗 Perfil LinkedIn: (icaroilc)
+- https://www.linkedin.com/in/icaro-leandro-5ab5b4375?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
